@@ -1,0 +1,9 @@
+ul.yiiPager{border:0 none;display:inline;font:14px/100% Arial,sans-serif;padding-top:5px;margin:0;}
+ul.yiiPager li{display:inline;}
+ul.yiiPager a:link,ul.yiiPager a:visited{color:#006ACE;text-decoration:none;padding:1px 6px;}
+ul.yiiPager .page a{text-decoration:none;}
+ul.yiiPager a:hover{color:#006ACE!important;text-decoration:underline;}
+ul.yiiPager .selected a{background:url(../img/design/active.gif) repeat-x scroll 0 0 transparent;color:#FFF!important;text-decoration:none!important;}
+ul.yiiPager .hidden a{color:#888;text-decoration:none!important;}
+ul.yiiPager .hidden a:hover{color:#888!important;}
+ul.yiiPager .first,ul.yiiPager .last{display:none;}
